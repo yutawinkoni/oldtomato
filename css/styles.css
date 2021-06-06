@@ -1,0 +1,55 @@
+
+#container{
+ height:1400px;width: 1867px;
+ background-image:url('/images/tomato.jpg');
+ background-size:cover;
+ background-position:center;
+}
+
+ .h1{
+    height:50px;
+    font-size:65pt;
+    font-family:"FZYaSongS-B-GB";
+    padding-left:1050px;
+    padding-top:50px;
+ }
+ .bili{
+    width:750px;
+    font-size:11pt;
+    font-family:'FZSongHei-B07S';
+    line-height:240%;
+    padding-left:1050px;
+    padding-top:160px;
+ }
+ .GO{
+   width:73px;
+   height:32px;
+   margin-left:1050px;
+   margin-top:40px;
+   background-image:url('/images/anniu1.png');
+ } 
+ .h2{
+    height:10px;
+    color: rgb(255, 255, 255);
+    font-size: 65pt;
+    font-family:"FZYaSongS-B-GB";
+    padding-left:430px;
+    padding-top:260px;
+ }
+ .fanqie{
+    width:748px;
+    color: rgb(255, 255, 255);
+    font-size:11pt;
+    font-family:'FZSongHei-B07S';
+    line-height:240%;
+    font-weight:500;
+    padding-left:100px;
+    padding-top:200px;
+ }
+.PLAY{
+   width:41px;
+   height:41px;
+   background-image:url('/images/anniu2.png');
+   margin-left:797px;
+   margin-top:20px;
+}
